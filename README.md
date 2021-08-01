@@ -5,6 +5,10 @@
 ![](https://img.shields.io/tokei/lines/github/Iamtripathisatyam/Split_Excel_File?color=red&label=Lines%20of%20Code)</br>
 ![sds](https://profile-counter.glitch.me/{Split_Excel_File}/count.svg)
 
+<p align="center">
+<a href="https://github.com/Iamtripathisatyam/QR_Code/blob/main/qr_code.py"><img width="15%"src="https://cdn.icon-icons.com/icons2/195/PNG/256/Excel_2013_23480.png" /></a>
+</p>
+
 We all know how crucial Excel sheets are today for holding large data packets. We will divide the sheets using the ***xlwings*** package, which is defined in Python. We will first copy all of the sheets and then try to convert them into individual Excel files.
 
 Let's have a look at the process step-by-step:
@@ -19,7 +23,7 @@ Let's have a look at the process step-by-step:
     ```python
     import xlwings as xw
     import os 
-      ```
+  ```
 - Create a new excel instance with xlwings.App, then set visibility to 'False' if you don't want the excel window to appear. Then, using the books.open function, open the worksheet.
 - We'll now execute a loop to traverse through each sheet.
 - Using the api.copy method, copy each sheet to a new workbook.
