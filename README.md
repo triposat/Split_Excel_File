@@ -6,7 +6,7 @@
 ![sds](https://profile-counter.glitch.me/{Split_Excel_File}/count.svg)
 
 <p align="center">
-<a href="https://github.com/Iamtripathisatyam/QR_Code/blob/main/qr_code.py"><img width="15%"src="https://cdn.icon-icons.com/icons2/195/PNG/256/Excel_2013_23480.png" /></a>
+<a href="https://github.com/Iamtripathisatyam/Split_Excel_File/blob/main/split_excel_files.py"><img width="15%"src="https://cdn.icon-icons.com/icons2/195/PNG/256/Excel_2013_23480.png" /></a>
 </p>
 
 We all know how crucial Excel sheets are today for holding large data packets. We will divide the sheets using the ***xlwings*** package, which is defined in Python. We will first copy all of the sheets and then try to convert them into individual Excel files.
