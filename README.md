@@ -31,10 +31,10 @@ Let's have a look at the process step-by-step:
 ## Output:
 ### Before: 
 <p align="center">
-<img width="70%"src="https://user-images.githubusercontent.com/69134468/127760550-c111305c-f820-4f92-bc48-04ba6b984570.jpg"/></a>
+<img width="70%"src="https://user-images.githubusercontent.com/69134468/127760576-756e2a48-4b02-47ed-bf68-e9362483833e.jpg"/></a>
 </p>
 
 ### After:
 <p align="center">
-<img width="70%"src="https://user-images.githubusercontent.com/69134468/127760576-756e2a48-4b02-47ed-bf68-e9362483833e.jpg"/></a>
+<img width="70%"src="https://user-images.githubusercontent.com/69134468/127760550-c111305c-f820-4f92-bc48-04ba6b984570.jpg"/></a>
 </p>
